@@ -1,0 +1,9 @@
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\obj\Debug\BSplainApproximation1.csprojAssemblyReference.cache
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\obj\Debug\BSplainApproximation1.Field.resources
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\obj\Debug\BSplainApproximation1.csproj.GenerateResource.cache
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\obj\Debug\BSplainApproximation1.csproj.CoreCompileInputs.cache
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\bin\Debug\BSplainApproximation1.exe.config
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\bin\Debug\BSplainApproximation1.exe
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\bin\Debug\BSplainApproximation1.pdb
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\obj\Debug\BSplainApproximation1.exe
+E:\work\CT\BSplainApproximation1\BSplainApproximation1\obj\Debug\BSplainApproximation1.pdb
