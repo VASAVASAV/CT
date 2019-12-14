@@ -4,10 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+enum Mode
+{
+    Star,
+    Standard,
+    NotEquidistant
+}
+
 namespace BSplainApproximation1
 {
     class Data
     {
+        public Mode mode;
         public List<double> t;
         public List<double> p;
         public List<List<double[,]>> GammaMatrix = new List<List<double[,]>>();
